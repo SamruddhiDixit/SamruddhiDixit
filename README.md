@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Pramod Dixit</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 - 🌱 I’m currently learning **Power BI,MEARN Stack**
 
