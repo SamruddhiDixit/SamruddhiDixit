@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI,MEARN Stack**
 
-- 👨‍💻 All of my projects are available at [https://samruddhidixitportfolio.netlify.app/](https://samruddhidixitportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfoliosamruddhi.netlify.app/
 
 - 💬 Ask me about **Database,Frontend Development**
 
